@@ -1,0 +1,9 @@
+build/
+target/
+out/
+dist/
+*.class
+*.jar
+.idea/
+.vscode/
+nbproject/private/
